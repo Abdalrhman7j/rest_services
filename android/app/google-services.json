@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603131032089",
+    "project_id": "orderx-7e725",
+    "storage_bucket": "orderx-7e725.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603131032089:android:b05c3852ecb411c865f088",
+        "android_client_info": {
+          "package_name": "com.example.atlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpY22SdW2mQS9uTre_fIy-x0mOm1Jh04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
