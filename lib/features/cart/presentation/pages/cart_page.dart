@@ -133,6 +133,17 @@ class _EmptyCart extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Column(mainAxisSize: MainAxisSize.min, children: [Icon(Icons.shopping_cart_outlined, size: 72, color: Colors.grey), SizedBox(height: 12), Text('Your cart is empty.'), SizedBox(height: 4), Text('Add items from a restaurant to place an order.')])));
+    return const Center(
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(Icons.shopping_cart_outlined, size: 72, color: Colors.grey),
+          SizedBox(height: 12),
+          Text('Your cart is empty.'),
+          SizedBox(height: 4),
+          Text('Add items from a restaurant to place an order.'),
+        ],
+      ),
+    );
   }
 }
